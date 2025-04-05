@@ -1,6 +1,6 @@
 # Frosted Glass
 
-Make a frosted glass effect with GEGL 
+This GIMP Plugin makes a frosted glass effect with GEGL 
 
 ![image](https://github.com/user-attachments/assets/614fa2cd-2abe-44ef-b02a-a98cab3109b9)
 
@@ -12,19 +12,18 @@ Make a frosted glass effect with GEGL
 
 **Windows**
 
- C:\Users\(USERNAME)\AppData\Local\gegl-0.4\plug-ins
+ `C:\Users\(USERNAME)\AppData\Local\gegl-0.4\plug-ins`
 
  **Linux**
 
-~/.local/share/gegl-0.4/plug-ins
+`~/.local/share/gegl-0.4/plug-ins`
 
  **Linux (Flatpak includes Chromebook)**
 
-~/.var/app/org.gimp.GIMP/data/gegl-0.4/plug-ins
+`~/.var/app/org.gimp.GIMP/data/gegl-0.4/plug-ins`
 
-Then Restart Gimp and go to Filters>Text Styling and look for "Frozen Gel" or just search for it with /
+Then Restart Gimp and go to Filters>Blur>Frosted Glass or just search for it with /
 
-GIMP 2.10 users will only find this in GEGL Operation drop down list and it will only work on 2.10 if they are using GEGL 0.4.50+, all normal windows builds of GIMP 2.10 ship with GEGL 0.4.48
 
 ## Compiling and Installing
 
