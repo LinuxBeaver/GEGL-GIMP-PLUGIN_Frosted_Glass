@@ -1,8 +1,11 @@
-# Ice Text - Ice cold text with dripping icicles
+# Frosted Glass
 
-Create ice dripping frozen text effects with this GIMP plugin, 
+Make a frosted glass effect with GEGL 
 
-![image](https://github.com/user-attachments/assets/d868a314-6290-494c-b104-e29ff5a1c413)
+![image](https://github.com/user-attachments/assets/614fa2cd-2abe-44ef-b02a-a98cab3109b9)
+
+![image](https://github.com/user-attachments/assets/28fa1a40-082a-45f8-8952-def4a4d26b16)
+
 
 
 ## Directory to put Binaries (They do NOT go in the normal plugins folder)
@@ -56,6 +59,8 @@ meson setup --buildtype=release build
 ninja -C build
 ```
 
-btw this plugin has a sister plugin named Frozel Gel
-https://github.com/LinuxBeaver/GIMP-GEGL-PLUGIN_Frozen_Gel/
+## more previews of this based plugin
+
+![image](https://github.com/user-attachments/assets/bdbd303d-da1b-4abd-86ff-13fc15540fe2)
+
 
